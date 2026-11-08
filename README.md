@@ -1,31 +1,29 @@
-### Opa! Meu nome é Deivid Matos 👋
+### Olá! Eu sou o Deivid Evangelista 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deiviidm&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=0e75b6&style=flat" alt="Visualizações do Perfil" />
 </p>
 
-Estudante de **Inteligência Artificial e Machine Learning** na Uniasselvi. Apaixonado por tecnologia, modelos inteligentes, automação e análise de dados.
+Estudante de **Inteligência Artificial e Machine Learning** na Uniasselvi. Foco em soluções de inteligência artificial, análise e visualização de dados, além de suporte e infraestrutura de TI.
 
 ---
 
 ### 🚀 Sobre Mim
 - 🎓 Cursando **Graduação em Inteligência Artificial e Machine Learning**
-- 💡 Interesses: Modelos de IA, Agentes Autônomos, Machine Learning e Power BI
-- 🛠️ Experiência em manutenção de computadores e suporte técnico ao usuário
+- 💡 Interesses: Modelos de Inteligência Artificial, Agentes de IA, Power BI e Análise de Dados
+- 🛠️ Experiência em manutenção de computadores, formatação e suporte técnico ao usuário
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/deiviidm/) | [E-mail](mailto:deivid.matos45@hotmail.com)
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Áreas de Atuação & Ferramentas
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Inteligência Artificial" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Hardware%20&%20TI-1F425F?style=for-the-badge&logo=linux&logoColor=white" alt="TI" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Hardware%20&%20Suporte%20TI-1F425F?style=for-the-badge&logo=windows&logoColor=white" alt="Hardware e Suporte TI" />
 </p>
 
 ---
